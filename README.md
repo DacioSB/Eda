@@ -1,2 +1,2 @@
 # Eda
-Algoritmos da disciplina de EDA (UFCG)
+Algorithms of the EDA discipline (UFCG)
