@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-04-01T16:38:19.369-0300</date>
+  <logger>DACIO SILVA BEZERRA</logger>
+  <level>FINE</level>
+  <message>File 118210572-DACIO SILVA BEZERRA.zip was received. It was sent by DACIO SILVA BEZERRA from IP 150.165.42.121</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-04-01T22:27:28.833-0300</date>
+  <logger>DACIO SILVA BEZERRA</logger>
+  <level>FINE</level>
+  <message>File 118210572-DACIO SILVA BEZERRA.zip was received. It was sent by DACIO SILVA BEZERRA from IP 10.0.0.15</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-04-02T16:23:58.299-0300</date>
+  <logger>DACIO SILVA BEZERRA</logger>
+  <level>FINE</level>
+  <message>File 118210572-DACIO SILVA BEZERRA.zip was received. It was sent by DACIO SILVA BEZERRA from IP 10.0.0.15</message>
+</record>
